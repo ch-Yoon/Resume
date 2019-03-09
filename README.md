@@ -50,7 +50,7 @@
 **봄 - 시각장애인을 위한 점자 학습 App**
 - 기간 : 2016. 08. 01 ~ 2018. 03. 24 (총 1년 8개월)
 - 내용 : 실시간 음성 안내, 제스처, 진동, 남성과 여성의 음성, 효과음을 통해 점자 학습을 하는 시각장애인용 점자 학습 앱
-- 역할 : 메뉴 화면 구현, 제스처 분석 및 활용 구현, 자체 TalkBack 구현, 점자 번역 구현
+- 역할 : 팀장 수행, 메뉴 화면 구현, 학습 화면 구현, 제스처 분석 구현, 자체 TalkBack 구현, 점자 번역 구현
 - 적용 패턴 : Singleton pattern, Observer pattern
 - 적용 기술 : Kakao Newtone API
 - [GitHub Link](https://github.com/ch-Yoon/refectoring_braille)
