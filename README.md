@@ -69,7 +69,7 @@
 - 역할 : 팀장 수행, 안드로이드 명령어 처리 구현, 약품 정보 저장, 검색, 삭제 기능 구현
 - 적용 패턴 : Observer pattern
 - 적용 기술 : SQLite, Google 내장 STT & TTS
-- [GitHub Link](https://github.com/ch-Yoon/smartcase)
+- [GitHub](https://github.com/ch-Yoon/smartcase)
 - [시연 영상](https://youtu.be/fYPkvSM8sAY)
 
 ## 교육 이수 내역
