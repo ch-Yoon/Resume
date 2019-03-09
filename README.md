@@ -22,14 +22,14 @@
 - 역할 : 프로젝트 뼈대 구성, 로그인 및 회원가입 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
 - 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, OverlapLoopView, RecyclerView
-- GitHub 주소 : https://github.com/boostcampth/boostcamp3_A
+- [GitHub Link](https://github.com/boostcampth/boostcamp3_A)
 
 **OverlapLoopView - 오픈소스 (JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
 - 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
 - 역할 : 전체 개발
 - 적용 패턴 : Observer pattern, ViewHolder pattern
-- GitHub 주소 : https://github.com/ch-Yoon/Overlap_Loop_View
+- [GitHub Link](https://github.com/ch-Yoon/Overlap_Loop_View)
 
 **영화 검색 앱 (부스트캠프 사전과제)**
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
@@ -37,23 +37,23 @@
 - 역할 : 프로젝트 전체 개발
 - 적용 패턴 : MVP pattern, Singleton pattern
 - 적용 기술 : Glide, Volley, RecyclerView, Preload
-- GitHub 주소 : https://github.com/ch-Yoon/movie_list_toy_project
+- [GitHub Link](https://github.com/ch-Yoon/movie_list_toy_project)
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
-- 내용 : 영화 페이지가 보여지고, 특정 영화 선택 시 상세정보, 사진 미리보기, 예고편 영상, 한줄평 등을 볼 수 있는 영화 리뷰 앱
+- 내용 : 영화 페이지가 보여지고, 특정 영화 선택 시 사진 미리보기, 예고편, 한줄평 등 영화 상세정보를 볼 수 있는 영화 리뷰 앱
 - 역할 : 프로젝트 전체 개발, 스터디 그룹 팀장 수행
 - 적용 패턴 : Singleton pattern
 - 적용 기술 : Volley, Glide, Pinch Zoom, Disk Cache
-- 우수 수료생으로 인한 인터뷰 : https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212
+- [우수 수료생으로 인한 인터뷰 Link](https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212)
 
 **봄 - 시각장애인을 위한 점자 학습 App**
 - 기간 : 2016. 08. 01 ~ 2018. 03. 24 (총 1년 8개월)
-- 내용 : 실시간 음성 안내, 다양한 제스처, 진동, 남성과 여성의 음성, 다양한 효과음을 통해 점자 학습을 할 수 있는 시각장애인용 점자 학습 앱
+- 내용 : 실시간 음성 안내, 제스처, 진동, 남성과 여성의 음성, 효과음을 통해 점자 학습을 하는 시각장애인용 점자 학습 앱
 - 역할 : 메뉴 화면 구현, 제스처 분석 및 활용 구현, 자체 TalkBack 구현, 점자 번역 구현
 - 적용 패턴 : Singleton pattern, Observer pattern
 - 적용 기술 : Kakao Newtone API
-- GitHub 주소 : https://github.com/ch-Yoon/refectoring_braille
+- [GitHub Link](https://github.com/ch-Yoon/refectoring_braille)
 
 **시각장애인을 위한 스마트 약통**
 - 기간 : 2017. 12. 01 ~ 2018. 03. 21 (총 4개월)
@@ -61,7 +61,7 @@
 - 역할 : 팀장 수행, 안드로이드 명령어 처리 구현, 약품 정보 저장, 검색, 삭제 기능 구현
 - 적용 패턴 : Observer pattern
 - 적용 기술 : SQLite, Google 내장 STT & TTS
-- GitHub 주소 : https://github.com/ch-Yoon/smartcase
+- [GitHub Link](https://github.com/ch-Yoon/smartcase)
 
 ## 교육 이수 내역
 **부스트캠프 Android 과정 3기 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)**
