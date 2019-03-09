@@ -35,7 +35,7 @@
 - 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
 - 역할 : 프로젝트 뼈대 구성, 로그인 및 회원가입 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
-- 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, OverlapLoopView, RecyclerView
+- 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, **OverlapLoopView**, RecyclerView
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
 - [시연 영상](https://www.youtube.com/watch?v=9jkn1Kt4FOQ)
 
