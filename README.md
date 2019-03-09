@@ -44,6 +44,7 @@
 - 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
 - 역할 : 전체 개발
 - 적용 패턴 : Observer pattern, ViewHolder pattern
+- 적용 기술 : VelocityTracker, ViewPropertyAnimator
 - [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
 
 **영화 검색 앱 (부스트캠프 사전과제)**
