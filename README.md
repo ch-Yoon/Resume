@@ -22,14 +22,14 @@
 - 역할 : 프로젝트 뼈대 구성, 로그인 및 회원가입 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
 - 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, OverlapLoopView, RecyclerView
-- [GitHub Link](https://github.com/boostcampth/boostcamp3_A)
+- [GitHub](https://github.com/boostcampth/boostcamp3_A)
 
 **OverlapLoopView - 오픈소스 (JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
 - 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
 - 역할 : 전체 개발
 - 적용 패턴 : Observer pattern, ViewHolder pattern
-- [GitHub Link](https://github.com/ch-Yoon/Overlap_Loop_View)
+- [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
 
 **영화 검색 앱 (부스트캠프 사전과제)**
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
@@ -37,7 +37,7 @@
 - 역할 : 프로젝트 전체 개발
 - 적용 패턴 : MVP pattern, Singleton pattern
 - 적용 기술 : Glide, Volley, RecyclerView, Preload
-- [GitHub Link](https://github.com/ch-Yoon/movie_list_toy_project)
+- [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
@@ -45,7 +45,8 @@
 - 역할 : 프로젝트 전체 개발, 스터디 그룹 팀장 수행
 - 적용 패턴 : Singleton pattern
 - 적용 기술 : Volley, Glide, Pinch Zoom, Disk Cache
-- [우수 수료생으로 인한 인터뷰 Link](https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212)
+- [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
+- [우수 수료생으로 인한 인터뷰](https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212)
 
 **봄 - 시각장애인을 위한 점자 학습 App**
 - 기간 : 2016. 08. 01 ~ 2018. 03. 24 (총 1년 8개월)
@@ -53,7 +54,14 @@
 - 역할 : 팀장 수행, 메뉴 화면 구현, 학습 화면 구현, 제스처 분석 구현, 자체 TalkBack 구현, 점자 번역 구현
 - 적용 패턴 : Singleton pattern, Observer pattern
 - 적용 기술 : Kakao Newtone API
-- [GitHub Link](https://github.com/ch-Yoon/refectoring_braille)
+- [GitHub](https://github.com/ch-Yoon/refectoring_braille)
+- [시연 영상](https://www.youtube.com/watch?v=-YME1Dlb4iU&t=45s)
+- [Goole Play Store](https://play.google.com/store/apps/details?id=com.project.why.braillelearning)
+- [UI/UX 도출 과정 카드 뉴스](https://m.facebook.com/story.php?story_fbid=969402966558900&id=962857480546782)
+- [인터뷰 영상](https://www.facebook.com/BlackBee.BOM/videos/1003795013119695/?__tn__=kC-R&eid=ARAZzdSx42tnVFjk7WeJnrIz4diiCZG8TTC25UyOlHrhNTWz1IQ0y6OtTV4UD0J_X1PTVlAS3uGB_i4B&hc_ref=ARTyrZqiU-0Pxaj6tV5dM0LTfD8HmOiVkrtIFa2_E-SZ4kQmrjEBFQTJV2Qu353s7zE&fref=nf&__xts__[0]=68.ARCquecUGC1RSWhZQlmLHL_fT1oqKbLJX3MXKKaWupUmqqvD38BgCFHorZBcP1Z80y1yBlPWO0xiec_d4h1qBu3De2wZjd-H9eVuUBJB42T14efskIu-rW_xkY5GLbg1XamFgICFbhwfZZxW8-YnHOurPew7mfq9AOyRXVoWPCU_GEUv2Bn5bvdRqqrw4kb7vLG18mIsDX-lUB-Tm0MYgHHsanrL4UjhvKK6CTDFS-08lVJhsOWS3zZ4L6QSuT0Ir__MPQieNYNwunV4elMwk5SY0s7y7Qeu4JnW-KmcOuhAITKV-uv8lBLYC36kU3OU4LRi4mdYNQO3nOuIK_NeI0j7Qg)
+- [봄 점자 학습 페이스북 페이지](https://www.facebook.com/BlackBee.BOM)
+- [라디오에서 소개된 '봄'](http://m.ablenews.co.kr/news/newscontent.aspx?categorycode=0048&newscode=004820180810114039868693&fbclid=IwAR3wQnA_qrGKtOoOhN72QNnzDuvOZMewX77VqWRHDNnkU7kWCz3ympS8eG0)
+
 
 **시각장애인을 위한 스마트 약통**
 - 기간 : 2017. 12. 01 ~ 2018. 03. 21 (총 4개월)
@@ -62,6 +70,7 @@
 - 적용 패턴 : Observer pattern
 - 적용 기술 : SQLite, Google 내장 STT & TTS
 - [GitHub Link](https://github.com/ch-Yoon/smartcase)
+- [시연 영상](https://youtu.be/fYPkvSM8sAY)
 
 ## 교육 이수 내역
 **부스트캠프 Android 과정 3기 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)**
@@ -98,10 +107,7 @@
 **돌잔치 사회 스피치 교육 : 2015. 10. 01 ~ 2015. 12. 31 (총 2개월)**
 - 돌잔치 사회자 현장 투입을 위한 스피치 교육
 
-## 자격증 내역
-
 ## 수상 내역
-
 ### 교외
 - 부스트캠프 3기 Android 과정 베스트 부스트상 : 2019. 02. 25
 - 018 스위스 제네바 국제대회 금상 : 2018. 05. 13　
@@ -115,3 +121,7 @@
 - 산학협동 산업기술대전 한국산업기술시험원장상 : 2017. 10. 18
 - 제 2회 P2P & 캡스톤 경진대회 최우수상 : 2017. 03. 15
 
+---
+
+여기까지 읽어주셔서 감사합니다. 더 궁금하신 내용이 있다면 chanhyuck1021@naver.com 으로 연락주세요.
+감사합니다 :)
