@@ -23,6 +23,7 @@
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
 - 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, OverlapLoopView, RecyclerView
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
+- [시연 영상](https://www.youtube.com/watch?v=9jkn1Kt4FOQ)
 
 **OverlapLoopView - 오픈소스 (JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
