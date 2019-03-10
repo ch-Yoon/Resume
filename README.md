@@ -11,7 +11,7 @@
 대학 시절, 의사소통 능력 향상을 위해 돌잔치 전문 MC 활동을 했습니다. 
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
-<img src="https://user-images.githubusercontent.com/20294749/54074551-0a511a80-42d7-11e9-83e7-46a86b173210.jpg" width=400>
+<img src="https://user-images.githubusercontent.com/20294749/54074551-0a511a80-42d7-11e9-83e7-46a86b173210.jpg" width=500>
 
 ## 학력
 - 수원 삼일공업고등학교 멀티미디어과 졸업 : 2008. 03 ~ 2011. 02
