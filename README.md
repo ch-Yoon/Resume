@@ -125,15 +125,6 @@
 - [봄 점자 학습 페이스북 페이지](https://www.facebook.com/BlackBee.BOM)
 - [라디오에서 소개된 '봄'](http://m.ablenews.co.kr/news/newscontent.aspx?categorycode=0048&newscode=004820180810114039868693&fbclid=IwAR3wQnA_qrGKtOoOhN72QNnzDuvOZMewX77VqWRHDNnkU7kWCz3ympS8eG0)
 
-
-**시각장애인을 위한 스마트 약통**
-- 기간 : 2017. 12. 01 ~ 2018. 03. 21 (총 4개월)
-- 내용 : 터치센서가 부착된 약통과 안드로이드 앱으로 구성된 시각장애인을 위한 스마트 약통
-- 역할 : 팀장 수행, 안드로이드 명령어 처리 구현, 약품 정보 저장, 검색, 삭제 기능 구현
-- 적용 패턴 : Observer pattern
-- 적용 기술 : SQLite, Google 내장 STT & TTS
-- [시연 영상](https://youtu.be/fYPkvSM8sAY)
-
 ---
 
 여기까지 읽어주셔서 감사합니다. 더 궁금하신 내용이 있다면 chanhyuck1021@naver.com 으로 연락주세요.    
