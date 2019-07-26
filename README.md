@@ -11,7 +11,7 @@
 대학 시절, 의사소통 능력 향상을 위해 돌잔치 전문 MC 활동을 했습니다. 
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
-<img src="https://user-images.githubusercontent.com/20294749/54074551-0a511a80-42d7-11e9-83e7-46a86b173210.jpg" width=500>
+<img src="https://user-images.githubusercontent.com/20294749/54074551-0a511a80-42d7-11e9-83e7-46a86b173210.jpg" width=600>
 
 ## 학력
 - 한국산업기술대학교 컴퓨터공학과 졸업 : 2012. 03 ~ 2019. 02
@@ -46,6 +46,9 @@
 - 3인 팀으로 구성되어 프로젝트 진행 및 팀별 멘토 지정
 - 오프라인 미팅, Slack, GitHub 활용 프로젝트 멘토링 진행
 - 개발자 특강 진행
+- 튜터 피드백
+
+<img src="https://user-images.githubusercontent.com/20294749/61933244-62579780-afc0-11e9-94ae-accbb88d85d5.png" width=600>
 
 **부스트코스 Android 과정 에이스 1기 : 2018. 05. 08 ~ 2018. 09. 30 (총 5개월)**
 - Android 온라인 강의 수강
