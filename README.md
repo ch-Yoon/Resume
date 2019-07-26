@@ -83,7 +83,7 @@
 **JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
 - 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
 - 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
-- 역할 : 프로젝트 뼈대 구성, 로그인 및 회원가입 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현
+- 역할 : 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
 - 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, **OverlapLoopView**, RecyclerView
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
@@ -100,7 +100,7 @@
 **영화 검색 앱 (부스트캠프 사전과제)**
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
 - 내용 : 네이버 영화 검색 API로부터 특정 키워드와 관련된 영화 정보를 수신하여 리스트 형태로 보여주는 앱
-- 역할 : 프로젝트 전체 개발
+- 역할 : 전체 개발
 - 적용 패턴 : MVP pattern, Singleton pattern
 - 적용 기술 : Glide, Volley, RecyclerView, Preload
 - [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
@@ -108,7 +108,7 @@
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
 - 내용 : 영화 페이지가 보여지고, 특정 영화 선택 시 사진 미리보기, 예고편, 한줄평 등 상세정보를 볼 수 있는 영화 리뷰 앱
-- 역할 : 프로젝트 전체 개발, 스터디 그룹 팀장 수행
+- 역할 : 전체 개발, 스터디 그룹 팀장 수행
 - 적용 패턴 : Singleton pattern
 - 적용 기술 : Volley, Glide, Pinch Zoom, Disk Cache
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
