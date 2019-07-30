@@ -1,8 +1,6 @@
 # 이력서
 
 ## 소개
-<img src="https://user-images.githubusercontent.com/20294749/54071352-d2ce7800-42ae-11e9-8d11-c5b71cca520f.jpg" width="200px">
-
 - 이름 : 윤찬혁    
 - 군필여부 : 병장 만기 재대    
 - Email : chanhyuck1021@naver.com    
