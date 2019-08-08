@@ -78,12 +78,21 @@
 
 
 ## 프로젝트 이력
+
+**카카오페이 인턴 과제 - Kakao 이미지 검색 API 활용한 이미지 검색 앱**
+- 기간 : 2019. 07. 31 ~ 2019. 08. 07 (총 1주일)
+- 내용 : 단어를 입력하여 검색하면, Kakao 이미지 검색 API를 활용하여 화면에 Grid 형태로 노출. 검색했던 단어는 네트워크가 끊겨도 재 검색 가능.
+- 역할 : 전체 개발
+- 적용 패턴 : MVVM
+- 적용 기술 : DataBinding, RxJava2, Retrofit2, Room, Glide, PhotoView
+- [Github](https://github.com/ch-Yoon/KakaoPay_ImageSearch)
+
 **JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
 - 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
 - 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
 - 역할 : 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
-- 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, **OverlapLoopView**, RecyclerView
+- 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, **OverlapLoopView**
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
 - [시연 영상](https://www.youtube.com/watch?v=9jkn1Kt4FOQ)
 
