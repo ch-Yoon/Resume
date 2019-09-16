@@ -79,18 +79,21 @@
 - 기간 : 2019. 07. 31 ~ 2019. 08. 07 (총 1주일)
 - 내용 : 단어를 입력하여 검색하면, Kakao 이미지 검색 API를 활용하여 화면에 Grid 형태로 노출. 검색했던 단어는 네트워크가 끊겨도 재 검색 가능.
 - 역할 : 전체 개발
+- 사용 언어 : Java
 - 본인의 적용 기술 : MVVM, DataBinding, RxJava2, Retrofit2, Room, Glide, PhotoView
 - [Github](https://github.com/ch-Yoon/KakaoPay_ImageSearch)
 
 **Naver 오디오 클립 Android 인턴**
 - 기간 : 2019. 04. 22 ~ 2019. 06. 21 (총 2개월)
-- 내용 : 다운로드 중지, 재시도, 진행 상황 확인과 같은 다운로드와 관련된 통합적인 기능을 제공하는 다운로드 매니저 구현, 다운로드 모듈 Kotlin으로 Convert
+- 내용 : 오디오클립 App에 기능을 추가하는 인턴 과제 수행
 - 역할 : 과제 전체 개발
+- 사용 언어 : Kotlin
 
 **JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
 - 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
 - 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
 - 역할 : 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
+- 사용 언어 : Java
 - 본인의 적용 기술 : DataBinding, MVP, Glide, Retrofit2, uCrop, Kakao 사용자 관리 API, **OverlapLoopView**
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
 - [시연 영상](https://www.youtube.com/watch?v=9jkn1Kt4FOQ)
@@ -99,6 +102,7 @@
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
 - 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
 - 역할 : 전체 개발
+- 사용 언어 : Java
 - 본인의 적용 기술 : ViewHolder, VelocityTracker, ViewPropertyAnimator
 - [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
 
@@ -106,6 +110,7 @@
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
 - 내용 : 네이버 영화 검색 API로부터 특정 키워드와 관련된 영화 정보를 수신하여 리스트 형태로 보여주는 앱
 - 역할 : 전체 개발
+- 사용 언어 : Java
 - 본인의 적용 기술 : MVP, Volley, Glide, Preload
 - [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
 
@@ -113,6 +118,7 @@
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
 - 내용 : 영화 페이지가 보여지고, 특정 영화 선택 시 사진 미리보기, 예고편, 한줄평 등 상세정보를 볼 수 있는 영화 리뷰 앱
 - 역할 : 전체 개발, 스터디 그룹 팀장 수행
+- 사용 언어 : Java
 - 본인의 적용 기술 : Volley, Glide, Pinch Zoom, Disk Cache
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
 - [우수 수료생으로 인한 인터뷰](https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212)
@@ -121,6 +127,7 @@
 - 기간 : 2016. 10. 01 ~ 2018. 03. 24 (총 1년 6개월)
 - 내용 : 실시간 음성 안내, 제스처, 진동, 남성과 여성의 음성, 효과음을 통해 점자 학습을 하는 시각장애인용 점자 학습 앱
 - 역할 : 팀장 수행, 메뉴 화면 구현, 학습 화면 구현, 제스처 분석 구현, 자체 TalkBack 구현, 점자 번역 구현
+- 사용 언어 : Java
 - 본인의 적용 기술 : Kakao Newtone API, SQLiteDatabase
 - [GitHub](https://github.com/ch-Yoon/refectoring_braille)
 - [시연 영상](https://www.youtube.com/watch?v=-YME1Dlb4iU&t=45s)
