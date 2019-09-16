@@ -80,7 +80,7 @@
 - 내용 : 단어를 입력하여 검색하면, Kakao 이미지 검색 API를 활용하여 화면에 Grid 형태로 노출. 검색했던 단어는 네트워크가 끊겨도 재 검색 가능.
 - 역할 : 전체 개발
 - 사용 언어 : Java
-- 본인의 적용 기술 : MVVM, DataBinding, RxJava2, Retrofit2, Room, Glide, PhotoView
+- 본인의 적용 기술 : MVVM, DataBinding, RxJava2, Retrofit2, Room, Glide, PhotoView, preload
 - [Github](https://github.com/ch-Yoon/KakaoPay_ImageSearch)
 
 **Naver 오디오 클립 Android 인턴**
