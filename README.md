@@ -46,7 +46,7 @@
 - 개발자 특강 진행
 - 튜터 피드백
 
-<img src="https://user-images.githubusercontent.com/20294749/61933244-62579780-afc0-11e9-94ae-accbb88d85d5.png" width=600>
+<img src="https://user-images.githubusercontent.com/20294749/61933244-62579780-afc0-11e9-94ae-accbb88d85d5.png" width=900>
 
 **부스트코스 Android 과정 에이스 1기 : 2018. 05. 08 ~ 2018. 09. 30 (총 5개월)**
 - Android 온라인 강의 수강
