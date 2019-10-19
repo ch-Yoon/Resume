@@ -120,10 +120,10 @@
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
-- 내용 : 영화 페이지가 보여지고, 특정 영화 선택 시 사진 미리보기, 예고편, 한줄평 등 상세정보를 볼 수 있는 영화 리뷰 앱
+- 내용 : 부스트코스 전용 영화 검색 API를 활용하는 영화 리뷰앱 제작. 
 - 역할 : 전체 개발, 스터디 그룹 팀장 수행
 - 사용 언어 : `Java`
-- 본인의 적용 기술 : `Volley` `Glide` `Pinch Zoom` `Disk Cache`
+- 본인의 적용 기술 : `Volley` `Glide` `Pinch Zoom` `Disk Cache` `부스트코스 영화 검색 API`
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
 - [우수 수료생으로 인한 인터뷰](https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212)
 
