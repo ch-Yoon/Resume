@@ -81,22 +81,22 @@
 
 **이미지 검색 앱 (카카오페이 인턴 과제)**
 - 기간 : 2019. 07. 31 ~ 현재
-- 내용 : 단어를 입력하여 검색하면, Kakao 이미지 검색 API를 활용하여 화면에 Grid 형태로 노출. 
-- 역할 : 전체 개발
+- 내용 : Kakao 이미지 검색 API를 활용하여 개발중인 이미미 검색 App. 이미지 preload 및 최근 검색 기록 탑재
+- 역할 : 개인 개발
 - 사용 언어 : `Java`
-- 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `PhotoView` `Preload`
+- 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload`
 - [Github](https://github.com/ch-Yoon/KakaoPay_ImageSearch)
 
 **Naver 오디오 클립 Android 인턴**
 - 기간 : 2019. 04. 22 ~ 2019. 06. 21 (총 2개월)
-- 내용 : 오디오클립 App에 기능을 추가하는 인턴 과제 수행
-- 역할 : 과제 전체 개발
-- 사용 언어 : `Kotlin`
+- 내용 : 오디오클립 다운로드 통합 관리 화면 개발 및 오디오클립 다운로드 모듈 Java -> Kotlin 변환 업무 수행
+- 역할 : 과제 개인 개발
+- 사용 언어 : `Kotlin` `Java` `MVVM` `DataBinding` `Retrofit2` `Realm`
 
 **JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
 - 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
 - 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
-- 역할 : 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
+- 역할 : 3인 팀 개발, 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `DataBinding` `MVP` `Glide` `Retrofit2` `uCrop` `Kakao 사용자 관리 API` `OverlapLoopView`
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
@@ -105,7 +105,7 @@
 **OverlapLoopView - 오픈소스 (부스트캠프 3기 JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
 - 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
-- 역할 : 전체 개발
+- 역할 : 개인 개발
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `ViewHolder`, `VelocityTracker` `ViewPropertyAnimator`
 - [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
@@ -113,7 +113,7 @@
 **영화 검색 앱 (부스트캠프 사전과제)**
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
 - 내용 : 네이버 영화 검색 API로부터 특정 키워드와 관련된 영화 정보를 수신하여 리스트 형태로 보여주는 앱
-- 역할 : 전체 개발
+- 역할 : 개인 개발
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `MVP` `Volley` `Glide` `Preload`
 - [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
@@ -121,7 +121,7 @@
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
 - 내용 : 부스트코스 전용 영화 검색 API를 활용하는 영화 리뷰앱 제작. 
-- 역할 : 전체 개발, 스터디 그룹 팀장 수행
+- 역할 : 개인 개발, 부스트코스 오프라인 스터디 그룹 팀장 수행
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `Volley` `Glide` `Pinch Zoom` `Disk Cache` `부스트코스 영화 검색 API`
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
@@ -130,7 +130,7 @@
 **봄 - 시각장애인을 위한 점자 학습**
 - 기간 : 2016. 10. 01 ~ 2018. 03. 24 (총 1년 6개월)
 - 내용 : 실시간 음성 안내, 제스처, 진동, 남성과 여성의 음성, 효과음을 통해 점자 학습을 하는 시각장애인용 점자 학습 앱
-- 역할 : 팀장 수행, 메뉴 화면 구현, 학습 화면 구현, 제스처 분석 구현, 자체 TalkBack 구현, 점자 번역 구현
+- 역할 : 4인 팀 개발, 팀장 수행, 메뉴 화면 구현, 학습 화면 구현, 제스처 분석 구현, 자체 TalkBack 구현, 점자 번역 구현
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `Kakao Newtone API` `SQLiteDatabase`
 - [GitHub](https://github.com/ch-Yoon/refectoring_braille)
