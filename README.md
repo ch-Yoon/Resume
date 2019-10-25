@@ -79,13 +79,13 @@
 
 ## 프로젝트 이력
 
-**이미지 검색 앱 (카카오페이 인턴 과제)**
+**이미지 검색 토이 프로젝트**
 - 기간 : 2019. 07. 31 ~ 현재
-- 내용 : Kakao 이미지 검색 API를 활용하여 개발중인 이미미 검색 App. 이미지 preload 및 최근 검색 기록 탑재
+- 내용 : Kakao 이미지 검색 API를 활용하여 개발중인 이미지 검색 App. 이미지 preload 및 최근 검색 기록 탑재
 - 역할 : 개인 개발
 - 사용 언어 : `Java`
-- 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload`
-- [Github](https://github.com/ch-Yoon/KakaoPay_ImageSearch)
+- 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
+- [Github](https://github.com/ch-Yoon/ImageSearch)
 
 **Naver 오디오 클립 Android 인턴**
 - 기간 : 2019. 04. 22 ~ 2019. 06. 21 (총 2개월)
