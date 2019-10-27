@@ -38,7 +38,7 @@
 - 역할 :  
   - 개인 개발
   - 이미지 검색 구현, 이미지 preload 구현, 최근 검색 기록 구현
-  - 현재 Java -> Kotlin 변환 중
+  - 현재 Java -> Kotlin 변환 중    
   
 - 사용 언어 : `Java`
 - 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
@@ -50,7 +50,7 @@
 - 역할 :
   - 과제 개인 개발
   - 오디오클립 다운로드 통합 관리 화면 
-  - 오디오클립 다운로드 모듈 Java -> Kotlin 변환 업무 수행
+  - 오디오클립 다운로드 모듈 Java -> Kotlin 변환 업무 수행    
   
 - 사용 언어 : `kotlin` `Java`
 - 본인의 적용 기술 : `Kotlin` `Java` `MVVM` `DataBinding` `Retrofit2` `Realm` `Unit Test`
