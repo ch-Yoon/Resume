@@ -30,11 +30,12 @@
 - 제 2회 P2P & 캡스톤 경진대회 최우수상 (시각장애인을 위한 점자 학습 앱) : 2017. 03. 15
 - 한이음 공모전 입선 (시각장애인을 위한 점자 학습 앱) : 2016. 12. 07
 
+
 ## 프로젝트 이력
 
 **이미지 검색 토이 프로젝트**
 - 기간 : 2019. 07. 31 ~ 현재
-- 내용 : Kakao 이미지 검색 API를 활용하여 개발중인 이미지 검색 App. 이미지 preload 및 최근 검색 기록 탑재
+- 내용 : Kakao 이미지 검색 API를 활용하여 개발중인 이미지 검색 App
 - 역할 :  
   - 개인 개발
   - 이미지 검색 구현, 이미지 preload 구현, 최근 검색 기록 구현
@@ -44,16 +45,18 @@
 - 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
 - [Github](https://github.com/ch-Yoon/ImageSearch)
 
+
 **Naver 오디오 클립 Android 인턴**
 - 기간 : 2019. 04. 22 ~ 2019. 06. 21 (총 2개월)
-- 내용 : 전체 채널에서 진행되고 있는 다운로드 작업(취소, 삭제, 다운로드 현황)을 총괄적으로 관리할 수 있는 다운로드 통합 관리 화면 제작
+- 내용 : 전체 채널에서 진행되고 있는 다운로드 작업(취소, 삭제, 다운로드 현황 확인)을 총괄적으로 관리할 수 있는 다운로드 통합 관리 화면 제작
 - 역할 :
   - 과제 개인 개발
   - 오디오클립 다운로드 통합 관리 화면 
+  - 구현 기능 Unit Test 진행
   - 오디오클립 다운로드 모듈 Java -> Kotlin 변환 업무 수행    
-  
 - 사용 언어 : `kotlin` `Java`
 - 본인의 적용 기술 : `Kotlin` `Java` `MVVM` `DataBinding` `Retrofit2` `Realm` `Unit Test`
+
 
 **JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
 - 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
@@ -64,11 +67,11 @@
   - 로그인 및 회원가입 구현
   - Custom View 구현 및 오픈소스 등록
   - 메뉴 등록 구현
-  
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `DataBinding` `MVP` `Glide` `Retrofit2` `uCrop` `Kakao 사용자 관리 API` `OverlapLoopView`
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
 - [시연 영상](https://www.youtube.com/watch?v=9jkn1Kt4FOQ)
+
 
 **OverlapLoopView - 오픈소스 (부스트캠프 3기 JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
@@ -77,10 +80,10 @@
   - 개인 개발
   - VelocityTracker 활용하여 드래그 가속도 측정
   - ViewHolder 및 adpater 구현하여 RecyclerView와 유사한 사용성 제공
-  
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `ViewHolder`, `VelocityTracker` `ViewPropertyAnimator`
 - [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
+
 
 **영화 검색 앱 (부스트캠프 사전과제)**
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
@@ -89,7 +92,6 @@
   - 개인 개발
   - 네이버 영화 검색 API 활용 구현
   - 이미지 검색 기능 구현, preload 기능 구현
-
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `MVP` `Volley` `Glide` `Preload`
 - [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
@@ -101,7 +103,6 @@
   - 개인 개발
   - 부스트코스 오프라인 스터디 그룹 팀장 수행
   - 화면 구성, 한줄평 등록 구현, Disk Cache 구현, matrix 활용 Pinch Zoom 구현
-  
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `Volley` `Glide` `Pinch Zoom` `Disk Cache` `부스트코스 영화 검색 API`
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
