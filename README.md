@@ -56,12 +56,11 @@
 
 **JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
 - 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
-- 내용 :
-  - 부스트캠프 3기 프로젝트
-  - 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
-  - 프로젝트 기반 구성, Custom View 구현 및 오픈소드 등록, 로그인 및 회원가입 구현
+- 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
+- 역할 
+  - 3인 팀 개발
+  - 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
   
-- 역할 : 3인 팀 개발, 프로젝트 기반 구성, Custom View 구현 및 오픈소스 등록, 로그인 및 회원가입 구현, 메뉴 등록 구현
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `DataBinding` `MVP` `Glide` `Retrofit2` `uCrop` `Kakao 사용자 관리 API` `OverlapLoopView`
 - [GitHub](https://github.com/boostcampth/boostcamp3_A)
@@ -69,32 +68,36 @@
 
 **OverlapLoopView - 오픈소스 (부스트캠프 3기 JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
-- 내용 :
-  - ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
+- 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
+- 역할 
+  - 개인 개발
+  - VelocityTracker 활용하여 드래그 가속도 측정
+  - ViewHolder 및 adpater 구현하여 RecyclerView와 유사한 사용성 제공
   
-- 역할 : 개인 개발
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `ViewHolder`, `VelocityTracker` `ViewPropertyAnimator`
 - [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
 
 **영화 검색 앱 (부스트캠프 사전과제)**
 - 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
-- 내용 
+- 내용 : 영화 검색 앱
+- 역할
+  - 개인 개발
   - 네이버 영화 검색 API 활용 구현
   - 이미지 검색 기능 구현, preload 기능 구현
-- 역할 : 개인 개발
+
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `MVP` `Volley` `Glide` `Preload`
 - [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
-- 내용 : 
-  - 부스트코스 전용 영화 검색 API를 활용하는 영화 리뷰앱 제작. 
-  - 네이버 영화 검색 API로부터 특정 키워드와 관련된 영화 정보를 수신하여 리스트 형태로 보여주는 앱
-  - 화면 구성, 한줄평 등록 구현, Disk Cache 구현, Pinch Zoom 구현
+- 내용 : 부스트코스 전용 영화 검색 API를 활용하여 제작한 영화 리뷰 앱
+- 역할 
+  - 개인 개발
+  - 부스트코스 오프라인 스터디 그룹 팀장 수행
+  - 화면 구성, 한줄평 등록 구현, Disk Cache 구현, matrix 활용 Pinch Zoom 구현
   
-- 역할 : 개인 개발, 부스트코스 오프라인 스터디 그룹 팀장 수행
 - 사용 언어 : `Java`
 - 본인의 적용 기술 : `Volley` `Glide` `Pinch Zoom` `Disk Cache` `부스트코스 영화 검색 API`
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
