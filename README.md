@@ -40,7 +40,6 @@
   - 개인 개발
   - 이미지 검색 구현, 이미지 preload 구현, 최근 검색 기록 구현
   - 현재 Java -> Kotlin 변환 중    
-  
 - 사용 언어 : `Java`
 - 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
 - [Github](https://github.com/ch-Yoon/ImageSearch)
