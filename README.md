@@ -41,7 +41,7 @@
   - 이미지 검색 구현, 이미지 preload 구현, 최근 검색 기록 구현
   - Java, Kotlin 두가지 버전으로 구현
 - 사용 언어 : `Kotlin` `Java`
-- 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
+- 사용 기술 : `koin` `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
 - [Github](https://github.com/ch-Yoon/ImageSearch)
 
 
