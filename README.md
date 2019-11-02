@@ -34,13 +34,13 @@
 ## 프로젝트 이력
 
 **이미지 검색 토이 프로젝트**
-- 기간 : 2019. 07. 31 ~ 현재
+- 기간 : 2019. 07. 31 ~ 2019. 11. 02
 - 내용 : Kakao 이미지 검색 API를 활용하여 개발중인 이미지 검색 App
 - 역할 :  
   - 개인 개발
   - 이미지 검색 구현, 이미지 preload 구현, 최근 검색 기록 구현
-  - 현재 Java -> Kotlin 변환 중    
-- 사용 언어 : `Java`
+  - Java, Kotlin 두가지 버전으로 구현
+- 사용 언어 : `Kotlin` `Java`
 - 사용 기술 : `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test`
 - [Github](https://github.com/ch-Yoon/ImageSearch)
 
