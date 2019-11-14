@@ -45,7 +45,7 @@
   - 좋아요 구현
   - FooterView 활용 재시도 요청 구현
 - 사용 언어 : `Kotlin`
-- 사용 기술 : `koin` `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test` `
+- 사용 기술 : `koin` `MVVM` `DataBinding` `RxJava2` `Retrofit2` `Room` `Glide` `Preload` `Unit Test` `Custom View`
 - [Github](https://github.com/ch-Yoon/ImageSearch)
 
 
